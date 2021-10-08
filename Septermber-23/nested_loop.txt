@@ -1,0 +1,1 @@
+Sometimes we can take a loop inside loop - nested loop 
